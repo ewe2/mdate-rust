@@ -1,2 +1,3 @@
-# mdate-rust
-eventually, a refactor/rewrite into rust
+# Mdate-rust
+
+Eventually, a refactor/rewrite into Rust.

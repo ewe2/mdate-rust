@@ -8,3 +8,6 @@ edition = "2018"
 
 [dependencies]
 gong = "1.4.0"
+libc = "0.2.60"
+libm = "0.1.4"
+
